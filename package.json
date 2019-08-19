@@ -1,0 +1,23 @@
+{
+	"name": "datatables.net-select",
+	"version": "1.3.1 alpha",
+	"description": "Select extension for DataTables.net with toggleable option. Added this package.json file to workaround https://github.com/npm/npm/issues/20824 and start to use toggleable option as soon as possible until new original repo release will be ready.",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/AlexDEVpro/Select.git"
+	},
+	"keywords": [
+		"DataTables",
+		"jQuery",
+		"plugins"
+	],
+	"author": "SpryMedia Ltd and contributors",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/AlexDEVpro/Select/issues"
+	},
+	"homepage": "https://datatables.net/extensions/select"
+}
